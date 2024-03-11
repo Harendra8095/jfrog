@@ -2,7 +2,7 @@ resources:
   - name: exclude
     type: GitRepo
     configuration:
-      gitProvider: harendra8095
+      gitProvider: jfrepo
       path: harendra8095/jfrog
       files:
         exclude: test.yaml
